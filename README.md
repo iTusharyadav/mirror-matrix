@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td style="width: 50%; vertical-align: middle; text-align: left;">
-      <strong>Mirror Matrix</strong>is a repository that brings together various clones of popular apps and websites. This collection is built to help developers practice frontend development by replicating the look and feel of well-known platforms.
+      <strong>Mirror Matrix</strong> is a repository that brings together various clones of popular apps and websites. This collection is built to help developers practice frontend development by replicating the look and feel of well-known platforms.
 
 Each clone project is housed in its own dedicated folder with a detailed `README.md` that explains setup instructions, technologies used, and more. The projects here will continue to grow, so stay tuned for regular updates as new clones are added!
     </td>
@@ -22,16 +22,14 @@ Each clone project is housed in its own dedicated folder with a detailed `README
 Each clone project is housed in its own dedicated folder with a detailed `README.md` that explains setup instructions, technologies used, and more. The projects here will continue to grow, so stay tuned for regular updates as new clones are added!-->
 
 ---
-
 ## Table of Contents 📚
 
 - [What is Mirror Matrix?](#what-is-mirror-matrix)
 - [How It Works](#how-it-works)
 - [Installation Guide](#installation-guide)
 - [Contributing](#contributing)
-- [License](##License)
+- [License](#license)
 - [Contact](#contact)
-
 ---
 
 ## What is Mirror Matrix? 🤔

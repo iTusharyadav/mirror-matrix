@@ -14,16 +14,6 @@ Each clone project is housed in its own dedicated folder with a detailed `README
   </tr>
 </table>
 
-
-
-
-
-
-
-
-
-
-
   <!--  ![Matrix GIF](https://media.giphy.com/media/8rSiGkyA4P1Cw/giphy.gif) -->
 
 
@@ -39,7 +29,7 @@ Each clone project is housed in its own dedicated folder with a detailed `README
 - [How It Works](#how-it-works)
 - [Installation Guide](#installation-guide)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](##License)
 - [Contact](#contact)
 
 ---

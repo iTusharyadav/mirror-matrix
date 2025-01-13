@@ -34,13 +34,12 @@ Each clone project is housed in its own dedicated folder with a detailed `README
 
 ## Table of Contents 📚
 
-- [What is Mirror Matrix?](#what-is-mirror-matrix)
-- [How It Works](#how-it-works)
-- [Installation Guide](#installation-guide)
-- [Contribution Guidelines](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
+- [What is Mirror Matrix? 🤔](#what-is-mirror-matrix-emoji)
+- [How It Works 🚀](#how-it-works-rocket)
+- [Installation Guide 🏁](#installation-guide-checkered-flag)
+- [Contribution Guidelines 🤝](#contribution-guidelines-handshake)
+- [License 📜](#license-scroll)
+- [Contact 📫](#contact-postbox)
 
 ---
 
@@ -68,7 +67,7 @@ As you explore the repository, you will find a variety of projects that showcase
 
 ---
 
-## Installation Guide 
+## Installation Guide 🏁 
 
 To get a local copy of the **Mirror Matrix** repository and start exploring the projects, follow these simple steps:
 

@@ -23,6 +23,15 @@ Each clone project is housed in its own dedicated folder with a detailed `README
 
 ---
 
+<!--## Table of Contents 📚
+
+- [What is Mirror Matrix?](#what-is-mirror-matrix)
+- [How It Works](#how-it-works)
+- [Installation Guide](#installation-guide)
+- [Contribution Guidelines](#contributing)
+- [License](#license)
+- [Contact](#contact) -->
+
 ## Table of Contents 📚
 
 - [What is Mirror Matrix?](#what-is-mirror-matrix)
@@ -31,6 +40,7 @@ Each clone project is housed in its own dedicated folder with a detailed `README
 - [Contribution Guidelines](#contributing)
 - [License](#license)
 - [Contact](#contact)
+
 
 ---
 

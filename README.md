@@ -14,6 +14,8 @@ Each clone project is housed in its own dedicated folder with a detailed `README
   </tr>
 </table>
 
+
+
   <!--  ![Matrix GIF](https://media.giphy.com/media/8rSiGkyA4P1Cw/giphy.gif) -->
 
 
@@ -31,7 +33,6 @@ Each clone project is housed in its own dedicated folder with a detailed `README
 - [Contribution Guidelines](#mag-contribution-guidelines)
 - [License](#memo-license)
 - [Contact](#love_letter-contact)
-- [Code of Conduct](#book-code-of-conduct)
 
 ---
 

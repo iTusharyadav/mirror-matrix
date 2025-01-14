@@ -25,17 +25,17 @@ Each clone project is housed in its own dedicated folder with a detailed `README
 
 ## Table of Contents 📚
 
-- [What is Mirror Matrix?](#what-is-mirror-matrix)
-- [How It Works](#how-it-works)
-- [Installation Guide](#installation-guide)
-- [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
-- [Contact](#contact)
+- [What is Mirror Matrix?](#white_check_mark-what-is-mirror-matrix)
+- [How It Works](#bulb-how-it-works)
+- [Installation Guide](#book-installation-guide)
+- [Contribution Guidelines](#mag-contribution-guidelines)
+- [License](#memo-license)
+- [Contact](#love_letter-contact)
 - [Code of Conduct](#book-code-of-conduct)
 
 ---
 
-## 🤔 What is Mirror Matrix? 
+## :white_check_mark: What is Mirror Matrix? 
 
 **Mirror Matrix** is more than just a collection of clones. It’s an ever-expanding matrix of web application replicas, allowing developers to explore, learn, and contribute. Whether you’re a beginner or an experienced developer, this repository offers a range of projects that help you hone your development skills.
 
@@ -43,7 +43,7 @@ As new projects are added, the repository will grow to feature a variety of **po
 
 ---
 
-## 🚀 How It Works
+## :bulb: How It Works
 
 Each folder within this repository represents a standalone clone of a application. The structure follows this format:
 
@@ -59,7 +59,7 @@ As you explore the repository, you will find a variety of projects that showcase
 
 ---
 
-## 🏁 Installation Guide 
+## :book:  Installation Guide 
 
 To get a local copy of the **Mirror Matrix** repository and start exploring the projects, follow these simple steps:
 
@@ -76,7 +76,7 @@ To get a local copy of the **Mirror Matrix** repository and start exploring the 
 3. Open the folder of the project you’re interested in, and follow the installation instructions in that project's individual README.md.
 
 ---
-## 🤝 Contribution Guidelines 
+## :mag: Contribution Guidelines 
 We welcome contributions to improve this project. Here's how you can help:
 
 1. Fork the repository.
@@ -87,12 +87,12 @@ We welcome contributions to improve this project. Here's how you can help:
 6. Create a pull request.
 
 ---
-## 📜 License 
+## :memo: License 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-## 📫 Contact 
+## :love_letter: Contact 
 If you have any questions, feel free to reach out to me via GitHub or email at tushar43588@gmail.com.
 
 ---

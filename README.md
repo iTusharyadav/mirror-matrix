@@ -60,7 +60,7 @@ As you explore the repository, you will find a variety of projects that showcase
 
 ---
 
-## :book:  Installation Guide 
+## :book: Installation Guide 
 
 To get a local copy of the **Mirror Matrix** repository and start exploring the projects, follow these simple steps:
 
